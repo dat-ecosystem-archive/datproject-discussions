@@ -5,7 +5,7 @@ All _Dat Project_ sub-projects and modules are free open source software. In ord
 
 All repositories:
 
-- must be licensed with [BSD-2-clause](http://opensource.org/licenses/BSD-2-Clause), [BSD-3-clause](http://opensource.org/licenses/BSD-3-Clause), or [MIT](http://opensource.org/licenses/MIT)
+- must be licensed with [BSD-2-clause](http://opensource.org/licenses/BSD-2-Clause), [BSD-3-clause](http://opensource.org/licenses/BSD-3-Clause), [MIT](http://opensource.org/licenses/MIT), or [Apache-2.0](http://opensource.org/licenses/Apache-2.0)
 - must include a `LICENSE` file
 - must include a `contributors.md` file
 - must include a `cla-notice.md`
