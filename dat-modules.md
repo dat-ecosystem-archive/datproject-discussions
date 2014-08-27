@@ -3,6 +3,7 @@ This is a list of modules (github repositories) that are part of Dat Project. Th
 
 - [maxogden/dat](https://github.com/maxogden/dat)
 - [jbenet/transformer](https://github.com/maxogden/dat)
+- [datproject/gasket](https://github.com/datproject/gasket)
 
 TODO: make this a full list.
 
